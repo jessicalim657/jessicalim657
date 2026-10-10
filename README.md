@@ -16,6 +16,9 @@ I'm particularly interested in **software engineering, health technology, and da
 ### 🚀 Projects
 
 **Dental Inventory Management System**
+
+Link: https://db-live-stock-alert-system.vercel.app/
+
 - Developed a web-based inventory tracking application to improve clinical stock management.
 - Implemented stock monitoring and low-stock alerts.
 - Technologies: Firebase, web technologies, Vercel.
